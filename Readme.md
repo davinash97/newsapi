@@ -52,7 +52,7 @@ This is an unofficial backend for News, utilizing [NewsApi](https://newsapi.org/
 
 ## Supported Endpoints
 
-- **Top Headlines**: Can Provide with parameters like Keyword, [Country](src/Helper) or [Category](src/Helper). Can also be used altogether to get specific result.
+- **Top Headlines**: Can Provide with parameters like Keyword, [Country](src/Helper.php) or [Category](src/Helper.php). Can also be used altogether to get specific result.
 
 - **Everything**: Can provide results with parameters like Keyword, [Language](src/Helper.php), or [searchIn](src/Helper.php) category
 
