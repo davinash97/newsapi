@@ -37,10 +37,11 @@ This is an unofficial backend for News, utilizing [NewsApi](https://newsapi.org/
 >
 > ### If you chose the **EASY** way:
 >
-> - Paste the newsapi directory in side xampp directory <br>(Typically it's `C:/xampp` in Windows)
+> - Paste the newsapi directory inside xampp directory <br>(Typically it's `C:/xampp` in Windows)
 > - Look for htdocs folder and paste the newsapi folder there.
 > - Now start the server from xampp control panel.
-> - Open [http://localhost:80](http://localhost:80) <br> _Point to note is port address i.e., 80 in our case can vary_
+> - Open [http://localhost:80](http://localhost:80)
+>   - _Point to note is port address i.e., 80 (in our case) can vary_
 >
 > ### If you chose the **HARD** way:
 >
