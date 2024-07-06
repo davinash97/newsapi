@@ -2,6 +2,9 @@
 
 This is an unofficial backend for News, utilizing [NewsApi](https://newsapi.org/) for fetching news. This project was developed as part of a Web Development vocational training [Project](https://github.com/davinash97/globalbuzz).
 
+## Note
+- There's a seperate branch for Node, which can be accessed [here](https://github.com/davinash97/newsapi/tree/node)
+
 ## Folder Structure
 
 ```
